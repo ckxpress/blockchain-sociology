@@ -8,7 +8,7 @@
 
 ## Words Misunderstood
 
-{% page-ref page="words-misunderstood/xue-xi.md" %}
+{% page-ref page="words-misunderstood/learning.md" %}
 
 #### 
 
