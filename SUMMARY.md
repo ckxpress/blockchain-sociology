@@ -34,18 +34,18 @@
 
 * [創作者的兩大煩惱](hua-zan-wei-shang/chuang-zuo-zhe-de-liang-da-fan-nao.md)
 * [讚賞幣](hua-zan-wei-shang/zan-shang-bi.md)
+* [讚賞公民](hua-zan-wei-shang/zan-shang-gong-min.md)
 * [Social Capital](hua-zan-wei-shang/social-capital.md)
 * [寫作是最小單位的自由](hua-zan-wei-shang/xie-zuo-shi-zui-xiao-chan-wei-de-zi-you.md)
-* [ISCN](hua-zan-wei-shang/iscn.md)
 * [【工作坊】](hua-zan-wei-shang/gong-zuo-fang.md)
 
 ## 讚賞公民共和國
 
 * [網上媒體的歐盟](zan-shang-gong-min-gong-he-guo/wang-shang-mei-ti-de-ou-meng.md)
+* [ISCN](zan-shang-gong-min-gong-he-guo/iscn.md)
 * [Fact Check](zan-shang-gong-min-gong-he-guo/fact-check.md)
 * [有機內容農場](zan-shang-gong-min-gong-he-guo/you-ji-nei-rong-nong-chang.md)
 * [流動民主](zan-shang-gong-min-gong-he-guo/liu-dong-min-zhu.md)
-* [Untitled](zan-shang-gong-min-gong-he-guo/untitled.md)
 * [【工作坊】](zan-shang-gong-min-gong-he-guo/gong-zuo-fang.md)
 
 ## 從零和到共和
