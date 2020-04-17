@@ -10,7 +10,7 @@
 * [金錢](chapter-1/money.md)
 * [虛擬](chapter-1/virtual.md)
 * [國家](chapter-1/state.md)
-* [【工作坊】](chapter-1/gong-zuo-fang-xia-zai-liker-land.md)
+* [【工作坊】](chapter-1/workshop-1.md)
 
 ## 區塊鏈的思考藝術 <a id="chapter-2"></a>
 
