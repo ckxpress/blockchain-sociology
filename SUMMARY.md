@@ -3,7 +3,7 @@
 * [區塊鏈社會學](README.md)
 * [大綱](mu-lu.md)
 
-## Words Misunderstood <a id="chapter-1"></a>
+## 誤解辭典 <a id="chapter-1"></a>
 
 * [習而時學之](chapter-1/learning.md)
 * [義氣幾錢斤](chapter-1/value.md)
