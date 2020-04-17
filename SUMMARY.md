@@ -32,7 +32,7 @@
 
 ## 化讚為賞
 
-* [創作者的兩大煩惱](hua-zan-wei-shang/chuang-zuo-zhe-de-liang-da-fan-nao.md)
+* [創作者的煩惱](hua-zan-wei-shang/chuang-zuo-zhe-de-liang-da-fan-nao.md)
 * [讚賞幣](hua-zan-wei-shang/zan-shang-bi.md)
 * [讚賞公民](hua-zan-wei-shang/zan-shang-gong-min.md)
 * [Social Capital](hua-zan-wei-shang/social-capital.md)
