@@ -1,6 +1,6 @@
-# Fact Check
+# 真理部
 
-
+Fact Check
 
 * misinformation、malinformation、disinformation
 * 1984: Ministry of Truth
