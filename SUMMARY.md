@@ -23,11 +23,11 @@
 
 ## 區塊鏈共和國 <a id="ou-kuai-lian-gong-he-guo"></a>
 
-* [The Architect and the Oracle](ou-kuai-lian-gong-he-guo/the-architect-and-the-oracle.md)
 * [一幣一世界](ou-kuai-lian-gong-he-guo/yi-bi-yi-shi-jie.md)
 * [Money 是個形容詞](ou-kuai-lian-gong-he-guo/money-shi-ge-xing-rong-ci.md)
 * [互聯網之死](ou-kuai-lian-gong-he-guo/hu-lian-wang-zhi-si.md)
 * [區塊鏈共和國](ou-kuai-lian-gong-he-guo/ou-kuai-lian-gong-he-guo.md)
+* [The Architect and the Oracle](ou-kuai-lian-gong-he-guo/the-architect-and-the-oracle.md)
 * [【工作坊】](ou-kuai-lian-gong-he-guo/gong-zuo-fang-get-hkg-tokendecentralize-hong-kong.md)
 
 ## 化讚為賞
