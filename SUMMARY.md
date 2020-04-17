@@ -5,8 +5,8 @@
 
 ## Words Misunderstood <a id="chapter-1"></a>
 
-* [用以致學](chapter-1/learning.md)
-* [半斤八兩](chapter-1/value.md)
+* [習而時學之](chapter-1/learning.md)
+* [義氣幾錢斤](chapter-1/value.md)
 * [真金白銀](chapter-1/money.md)
 * [虛則實之](chapter-1/virtual.md)
 * [Imagine](chapter-1/state.md)
