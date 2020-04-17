@@ -9,3 +9,7 @@
   * [虛擬](words-misunderstood/virtual.md)
   * [國家](words-misunderstood/state.md)
 
+## 區塊鏈的思考藝術 <a id="the-logic-of-blockchain"></a>
+
+* [Untitled](the-logic-of-blockchain/untitled.md)
+
