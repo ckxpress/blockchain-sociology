@@ -35,20 +35,21 @@
 * [創作者的煩惱](chapter-4/chuang-zuo-zhe-de-liang-da-fan-nao.md)
 * [讚賞幣](chapter-4/zan-shang-bi.md)
 * [讚賞公民](chapter-4/zan-shang-gong-min.md)
-* [Social Capital](chapter-4/social-capital.md)
+* [ISCN](chapter-4/iscn.md)
 * [寫作是最小單位的自由](chapter-4/xie-zuo-shi-zui-xiao-chan-wei-de-zi-you.md)
 * [【工作坊】](chapter-4/gong-zuo-fang.md)
 
 ## 讚賞公民共和國 <a id="chapter-5"></a>
 
 * [網上媒體的歐盟](chapter-5/wang-shang-mei-ti-de-ou-meng.md)
-* [ISCN](chapter-5/iscn.md)
 * [Fact Check](chapter-5/fact-check.md)
 * [有機內容農場](chapter-5/you-ji-nei-rong-nong-chang.md)
 * [流動民主](chapter-5/liu-dong-min-zhu.md)
+* [顏色經濟圈](chapter-5/yan-se-jing-ji-quan.md)
 * [【工作坊】](chapter-5/gong-zuo-fang.md)
 
 ## 從零和到共和 <a id="chapter-6"></a>
 
-* [民主沙盒](chapter-6/ji-jin-shi-chang.md)
+* [從零和到共贏](chapter-6/ji-jin-shi-chang.md)
+* [從共贏到共和](chapter-6/cong-gong-ying-dao-gong-he.md)
 
