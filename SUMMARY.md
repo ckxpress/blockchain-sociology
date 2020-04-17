@@ -5,11 +5,11 @@
 
 ## Words Misunderstood <a id="chapter-1"></a>
 
-* [學習](chapter-1/learning.md)
-* [價值](chapter-1/value.md)
-* [金錢](chapter-1/money.md)
-* [虛擬](chapter-1/virtual.md)
-* [國家](chapter-1/state.md)
+* [用以致學](chapter-1/learning.md)
+* [半斤八兩](chapter-1/value.md)
+* [真金白銀](chapter-1/money.md)
+* [虛則實之](chapter-1/virtual.md)
+* [Imagine](chapter-1/state.md)
 * [【工作坊】](chapter-1/workshop-1.md)
 
 ## 區塊鏈的思考藝術 <a id="chapter-2"></a>
