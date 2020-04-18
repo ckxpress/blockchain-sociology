@@ -3,13 +3,13 @@
 * [區塊鏈社會學](README.md)
 * [大綱](mu-lu.md)
 
-## 誤解辭典 <a id="chapter-1"></a>
+## 誤解詞典 <a id="chapter-1"></a>
 
-* [習而時學之](chapter-1/learning.md)
-* [義氣幾錢斤](chapter-1/value.md)
-* [真金白銀](chapter-1/money.md)
-* [虛則實之](chapter-1/virtual.md)
-* [Imagine](chapter-1/state.md)
+* [學習](chapter-1/learning.md)
+* [價值](chapter-1/value.md)
+* [金錢](chapter-1/money.md)
+* [虛擬](chapter-1/virtual.md)
+* [國家](chapter-1/state.md)
 * [【工作坊】](chapter-1/workshop-1.md)
 
 ## 區塊鏈的思考藝術 <a id="chapter-2"></a>
