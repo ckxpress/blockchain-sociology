@@ -36,12 +36,12 @@
 * [讚賞幣](chapter-4/zan-shang-bi.md)
 * [讚賞公民](chapter-4/zan-shang-gong-min.md)
 * [真理部](chapter-4/fact-check.md)
-* [寫作是最小單位的自由](chapter-4/xie-zuo-shi-zui-xiao-chan-wei-de-zi-you.md)
+* [最小單位的自由](chapter-4/xie-zuo-shi-zui-xiao-chan-wei-de-zi-you.md)
 * [【工作坊】](chapter-4/gong-zuo-fang.md)
 
 ## 區塊鏈與協作 <a id="chapter-5"></a>
 
-* [網上媒體版歐盟](chapter-5/wang-shang-mei-ti-de-ou-meng.md)
+* [網上媒體的歐盟](chapter-5/wang-shang-mei-ti-de-ou-meng.md)
 * [數位圖書館](chapter-5/iscn.md)
 * [有機內容農場](chapter-5/you-ji-nei-rong-nong-chang.md)
 * [流動民主](chapter-5/liu-dong-min-zhu.md)
