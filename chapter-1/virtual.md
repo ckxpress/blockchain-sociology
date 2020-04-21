@@ -4,7 +4,13 @@ description: 虛則實之
 
 # 虛擬
 
-談到在沒有土地的前提下「立國」，自然讓人聯想到一系列如《Avatar》、《The Matrix》、《Ready Player One》和《刀劍神域》等科幻作品。的確，隨著虛擬真實（Virtual Reality，AR）科技的日漸成熟，算力成本的下降，過往只在科幻小說存在的意念，已經逐漸實現。正如遊戲公司 Valve 聯合創辦人 Gabe Newell 在日前[訪問](https://www.ign.com/articles/gabe-newell-matrix-brain-computer-interface-valve)中所表示，「我們離 The Matrix 要比大眾意識到的接近得多（We're Way Closer to The Matrix Than People Realise）。」不過，「虛擬世界」、「虛擬貨幣」等概念用得太濫也太虛，討論前我們有必要先釐清「虛擬」是甚麼，不是甚麼。
+談到在沒有土地的前提下「立國」，自然讓人聯想到一系列如《Avatar》、《The Matrix》和《刀劍神域》等科幻作品。的確，隨著虛擬真實（Virtual Reality，AR）科技的日漸成熟，算力成本的下降，過往只在科幻小說存在的意念，已經逐漸實現。正如遊戲公司 Valve 聯合創辦人 Gabe Newell 在日前[訪問](https://www.ign.com/articles/gabe-newell-matrix-brain-computer-interface-valve)中所表示，「我們離 The Matrix 要比大眾意識到的接近得多（We're Way Closer to The Matrix Than People Realise）。」
+
+大行其道的同時，「虛擬世界」、「虛擬貨幣」等概念早已用得太濫，更大的問題在於，就如「虛擬」一詞本身，太虛。進一步討論前，有必要先釐清「虛擬」到底指甚麼，不指甚麼。
+
+字面可見，「虛擬」帶有「模擬」的意思，換言之是透過技術模擬真實，讓人感覺身歷其境，甚至信以為真。感覺從靈魂之窗開始，因此虛擬真實用得最多的首先是眼鏡，並因此早做成畫面中子彈飛來會讓你真的避開的真實程度。視覺之外，最容易模擬實境的自然是以降噪耳機播出的聲音，此後甚至觸感、嗅覺、味覺等。總之，所有感官全都可以透過技術影響。「虛」這個詞首加上模擬這個特性，虛擬幾乎總附帶一個意思：虛假。即使是科幻電影《Ready Player One》，都經常帶點說教地提醒觀眾，遊戲世界 Oasis 是假的，唯有 "reality“ 才是真實的，需要珍惜。
+
+
 
 
 
