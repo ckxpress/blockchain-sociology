@@ -4,6 +4,8 @@ description: 虛則實之
 
 # 虛擬
 
+談到在沒有土地的前提下「立國」，自然讓人聯想到一系列如《Avatar》、《The Matrix》、《Ready Player One》和《刀劍神域》等科幻作品。的確，隨著虛擬真實（Virtual Reality，AR）科技的日漸成熟，算力成本的下降，過往只在科幻小說存在的意念，已經逐漸實現。正如遊戲公司 Valve 聯合創辦人 Gabe Newell 在日前[訪問](https://www.ign.com/articles/gabe-newell-matrix-brain-computer-interface-valve)中所表示，「我們離 The Matrix 要比大眾意識到的接近得多（We're Way Closer to The Matrix Than People Realise）。」不過，「虛擬世界」、「虛擬貨幣」等概念用得太濫也太虛，討論前我們有必要先釐清「虛擬」是甚麼，不是甚麼。
+
 
 
 * US stat: know better half %. used to be ashamed of.
