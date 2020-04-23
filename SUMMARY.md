@@ -14,7 +14,7 @@
 
 ## 區塊鏈的思考藝術 <a id="chapter-2"></a>
 
-* [區塊鏈的思考藝術](chapter-2/on-immutability.md)
+* [不可竄改](chapter-2/on-immutability.md)
 * [冇大台 有共識](chapter-2/mao-da-tai-you-gong-shi.md)
 * [Imitation Game](chapter-2/untitled.md)
 * [你能分辨 49款流通紙幣麼？](chapter-2/ni-neng-fen-bian-49-kuan-liu-tong-zhi-bi-me.md)
