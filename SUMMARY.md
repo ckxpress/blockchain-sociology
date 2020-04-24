@@ -12,12 +12,12 @@
 * [虛擬](chapter-1/virtual.md)
 * [【工作坊】](chapter-1/workshop-1.md)
 
-## 區塊鏈所為何事 <a id="chapter-2"></a>
+## 信任的重新演繹 <a id="chapter-2"></a>
 
 * [區塊鏈的思考藝術](chapter-2/on-immutability.md)
-* [冇大台](chapter-2/mao-da-tai-you-gong-shi.md)
-* [Imitation Game](chapter-2/untitled.md)
-* [你能分辨 49款流通紙幣麼？](chapter-2/ni-neng-fen-bian-49-kuan-liu-tong-zhi-bi-me.md)
+* [冇大台](chapter-2/on-decentralization.md)
+* [Imitation Game](chapter-2/imitation-game.md)
+* [你能分辨 49款流通紙幣麼？](chapter-2/on-anti-counterfeiting.md)
 * [區塊鏈的去去中心化](chapter-2/de-decentralization.md)
 * [【工作坊】](chapter-2/gong-zuo-fang-zhuan-zhang.md)
 
