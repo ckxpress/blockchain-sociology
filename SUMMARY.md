@@ -39,7 +39,7 @@
 * [最小單位的自由](chapter-4/xie-zuo-shi-zui-xiao-chan-wei-de-zi-you.md)
 * [【工作坊】](chapter-4/gong-zuo-fang.md)
 
-## 區塊鏈與協作 <a id="chapter-5"></a>
+## 區塊鏈與治理 <a id="chapter-5"></a>
 
 * [網上媒體的歐盟](chapter-5/wang-shang-mei-ti-de-ou-meng.md)
 * [數位圖書館](chapter-5/iscn.md)
