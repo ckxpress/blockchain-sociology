@@ -16,7 +16,7 @@
 
 * [區塊鏈的思考藝術](chapter-2/on-immutability.md)
 * [冇大台](chapter-2/on-decentralization.md)
-* [Imitation Game](chapter-2/imitation-game.md)
+* [密碼學不是學密碼](chapter-2/imitation-game.md)
 * [你能分辨 49款流通紙幣麼？](chapter-2/on-anti-counterfeiting.md)
 * [區塊鏈的去去中心化](chapter-2/de-decentralization.md)
 * [【工作坊】](chapter-2/gong-zuo-fang-zhuan-zhang.md)
