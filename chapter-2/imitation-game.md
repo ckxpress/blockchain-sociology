@@ -28,5 +28,9 @@
 
 過往數碼龐克（[cyberpunk](https://en.wikipedia.org/wiki/Cyberpunk)）和黑客（[hacker](https://en.wikipedia.org/wiki/Hacker)）才懂得關心的密碼學和區塊鏈，隨著組織濫權、老大哥監控、人工智能科技突飛猛進，逐漸變成顯學，不去學習一招半式傍身的，大概是還沒理解自己每天都在數位世界裸奔。不能怪公眾，畢竟政府除了拍些[反智的宣傳片](https://www.youtube.com/watch?v=lIBAfQSnlLE)說密碼貨幣騙人之外，從未做過任何正面教育工作，相反，讓監控越益方便的措施倒不缺。去年反對逃犯條例修訂草案運動觀塘區遊行，示威者鋸斷並拉倒一條智能燈柱，[見過 Steve Jobs](https://www.youtube.com/watch?v=xI7X5IDjV0o) 的前創科局局長[楊偉雄](https://zh-yue.wikipedia.org/wiki/%E6%A5%8A%E5%81%89%E9%9B%84)讉責，稱那是[香港創科黑暗的一天](https://lihkg.com/thread/1507985/page/1)。傻兮兮地深信科技興邦卻連資訊科技界選民身份都沒有的我倒認為，這是近年科技與私隱、便捷與自由的博弈中，意義最重大的一天。區區一條燈柱，讓華人甚至全世界反思科技與社會關係的效果，抵得上政府廿年的公民教育 。
 
+* privacy
+* secrecy
+* declaration of cyberpunk...
+
 
 
