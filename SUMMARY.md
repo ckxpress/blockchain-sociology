@@ -21,7 +21,7 @@
 * [區塊鏈的去去中心化](chapter-2/de-decentralization.md)
 * [【工作坊】](chapter-2/gong-zuo-fang-zhuan-zhang.md)
 
-## 冇大台自治組織 <a id="chapter-3"></a>
+## 區塊鏈與價值 <a id="chapter-3"></a>
 
 * [一幣一世界](chapter-3/yi-bi-yi-shi-jie.md)
 * [Money 是個形容詞](chapter-3/money-shi-ge-xing-rong-ci.md)
