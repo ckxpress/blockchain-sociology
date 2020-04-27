@@ -14,18 +14,18 @@
 
 ## 區塊鏈與信任 <a id="chapter-2"></a>
 
-* [區塊鏈的思考藝術](chapter-2/on-immutability.md)
+* [數位連儂牆](chapter-2/on-immutability.md)
 * [冇大台](chapter-2/on-decentralization.md)
 * [密碼學不是學密碼](chapter-2/imitation-game.md)
 * [你能分辨 49 款流通紙幣麼？](chapter-2/on-anti-counterfeiting.md)
-* [區塊鏈的去去中心化](chapter-2/de-decentralization.md)
+* [去去中心化](chapter-2/de-decentralization.md)
 * [【工作坊】](chapter-2/gong-zuo-fang-zhuan-zhang.md)
 
 ## 區塊鏈與價值 <a id="chapter-3"></a>
 
 * [一幣一世界](chapter-3/yi-bi-yi-shi-jie.md)
 * [Money 是個形容詞](chapter-3/money-shi-ge-xing-rong-ci.md)
-* [互聯網之死](chapter-3/hu-lian-wang-zhi-si.md)
+* [公地悲劇](chapter-3/hu-lian-wang-zhi-si.md)
 * [建築師與先知](chapter-3/the-architect-and-the-oracle.md)
 * [區塊鏈共和國](chapter-3/ou-kuai-lian-gong-he-guo.md)
 * [【工作坊】](chapter-3/gong-zuo-fang-get-hkg-tokendecentralize-hong-kong.md)
