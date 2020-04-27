@@ -14,7 +14,7 @@
 
 ## 區塊鏈與信任 <a id="chapter-2"></a>
 
-* [數位連儂牆](chapter-2/on-immutability.md)
+* [不可竄改](chapter-2/on-immutability.md)
 * [冇大台](chapter-2/on-decentralization.md)
 * [密碼學不是學密碼](chapter-2/imitation-game.md)
 * [你能分辨 49 款流通紙幣麼？](chapter-2/on-anti-counterfeiting.md)
