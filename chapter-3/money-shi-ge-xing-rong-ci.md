@@ -1,6 +1,6 @@
 # Money 是個形容詞
 
-\*\*\*\*
+**鑄幣權**
 
 * measure of value、store of value、transfer of value、歡樂天地代幣、超市券、西餅券、防偽、民間鑄幣權
 * 價格倒灌
