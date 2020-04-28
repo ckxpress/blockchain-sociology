@@ -1,4 +1,6 @@
-# 數位圖書館
+# 有機內容農場
+
+
 
 ISCN
 
@@ -10,3 +12,7 @@ ISCN
 * 各種門檻的降低
 * International Standard Content Number
 
+
+
+* 內容伯樂、1:9:90、RSS
+* 

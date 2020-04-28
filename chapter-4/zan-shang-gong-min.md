@@ -1,6 +1,13 @@
-# 讚賞公民
+# 讚賞幣
 
-
+* 讚賞之謂讚賞
+* 讚賞公民、讚賞鍵、讚賞幣
+* 配對基金、公共財
+* Social Capital - 識人好過識字
+* 從 social 到 media，再到 social media，然後？
+* 再談 proof of work: recaptcha
+* social capital -&gt; LikeCoin
+* Facebook as a nation、Libra
 
 > [@DrYuan。汤圆](https://matters.news/@riceball) ：[菜鸟提问～为什么赞赏公民报告是日结而不是月结](https://matters.news/@riceball/%E8%8F%9C%E9%B8%9F%E6%8F%90%E9%97%AE-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%9E%E8%B5%8F%E5%85%AC%E6%B0%91%E6%8A%A5%E5%91%8A%E6%98%AF%E6%97%A5%E7%BB%93%E8%80%8C%E4%B8%8D%E6%98%AF%E6%9C%88%E7%BB%93-zdpuB1q3vtbKWfix7bwbHB9utRzdXQ6CH7wsRZGKjBtrnsNAj)
 

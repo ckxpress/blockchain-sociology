@@ -33,10 +33,9 @@
 ## 區塊鏈與創作 <a id="chapter-4"></a>
 
 * [創作者的煩惱](chapter-4/chuang-zuo-zhe-de-liang-da-fan-nao.md)
-* [讚賞幣](chapter-4/zan-shang-bi.md)
-* [讚賞公民](chapter-4/zan-shang-gong-min.md)
+* [讚賞幣](chapter-4/zan-shang-gong-min.md)
 * [真理部](chapter-4/fact-check.md)
-* [數位圖書館](chapter-4/iscn.md)
+* [有機內容農場](chapter-4/you-ji-nei-rong-nong-chang.md)
 * [最小單位的自由](chapter-4/xie-zuo-shi-zui-xiao-chan-wei-de-zi-you.md)
 * [【工作坊】](chapter-4/gong-zuo-fang.md)
 
@@ -44,10 +43,9 @@
 
 * [區塊鏈共和國](chapter-5/ou-kuai-lian-gong-he-guo.md)
 * [網上媒體的歐盟](chapter-5/wang-shang-mei-ti-de-ou-meng.md)
-* [有機內容農場](chapter-5/you-ji-nei-rong-nong-chang.md)
 * [流動民主](chapter-5/liu-dong-min-zhu.md)
-* [顏色經濟圈](chapter-5/yan-se-jing-ji-quan.md)
 * [區塊鏈一帶一路](chapter-5/de-decentralization.md)
+* [顏色經濟圈](chapter-5/yan-se-jing-ji-quan.md)
 * [【工作坊】](chapter-5/gong-zuo-fang.md)
 
 ## 從零和到共和 <a id="chapter-6"></a>
