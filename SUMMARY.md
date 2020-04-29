@@ -30,7 +30,7 @@
 * [鑄幣權](chapter-3/zhu-bi-quan.md)
 * [【工作坊】](chapter-3/gong-zuo-fang-get-hkg-tokendecentralize-hong-kong.md)
 
-## 區塊鏈與創作 <a id="chapter-4"></a>
+## 區塊鏈與媒體 <a id="chapter-4"></a>
 
 * [創作者的煩惱](chapter-4/chuang-zuo-zhe-de-liang-da-fan-nao.md)
 * [讚賞幣](chapter-4/zan-shang-gong-min.md)
@@ -41,9 +41,9 @@
 
 ## 區塊鏈與治理 <a id="chapter-5"></a>
 
-* [區塊鏈共和國](chapter-5/ou-kuai-lian-gong-he-guo.md)
-* [網上媒體的歐盟](chapter-5/wang-shang-mei-ti-de-ou-meng.md)
-* [流動民主](chapter-5/liu-dong-min-zhu.md)
+* [冇大台自治組織](chapter-5/liu-dong-min-zhu.md)
+* [Internet of blockchain](chapter-5/wang-shang-mei-ti-de-ou-meng.md)
+* [讚賞公民共和國](chapter-5/ou-kuai-lian-gong-he-guo.md)
 * [區塊鏈一帶一路](chapter-5/de-decentralization.md)
 * [顏色經濟圈](chapter-5/yan-se-jing-ji-quan.md)
 * [【工作坊】](chapter-5/gong-zuo-fang.md)

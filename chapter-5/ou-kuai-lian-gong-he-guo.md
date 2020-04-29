@@ -1,6 +1,18 @@
-# 區塊鏈共和國
+# 讚賞公民共和國
 
 呼應 Matrix
+
+
+
+* 歐洲國家共同體、歐盟簡史
+* Liker Land
+* 歐羅、LikeCoin
+* GDPR、稅率、虛假訊息
+* Big Dipper: open government
+* LikeCoin chain: consensus、open data
+* 流動民主
+
+
 
 * 擁抱一套共同價值的就是 xx 人
 * DAO、MakerDAO、Aragon、HKG
