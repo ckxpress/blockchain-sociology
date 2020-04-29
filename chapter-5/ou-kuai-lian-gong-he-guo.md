@@ -1,5 +1,7 @@
 # 區塊鏈共和國
 
+呼應 Matrix
+
 * 擁抱一套共同價值的就是 xx 人
 * DAO、MakerDAO、Aragon、HKG
 
