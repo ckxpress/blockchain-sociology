@@ -1,4 +1,6 @@
-# Proof of Work
+# 核心價值
+
+Proof of X
 
 Calculus of Value
 
