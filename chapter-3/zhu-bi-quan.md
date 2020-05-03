@@ -1,4 +1,5 @@
 # 鑄幣權
 
 * 體現多元價值
-* 
+* permissionless
+

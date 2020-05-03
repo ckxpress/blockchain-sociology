@@ -31,4 +31,7 @@ description: 習而時學之
 拉開話題，同場加映：先學懂愛才開始去愛，可以麼？
 
 * 科技 e.g. vr, video steaming, sandbox, digitization, recording, transcribe, ever changing world, makes learn -&gt; practice irrelevant
+* b+ 選科
+* 芬蘭
+* 固定學科 vs 知識發展、文理
 
