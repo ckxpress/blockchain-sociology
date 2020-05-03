@@ -27,7 +27,7 @@
 * [金錢是個形容詞](chapter-3/money-shi-ge-xing-rong-ci.md)
 * [核心價值](chapter-3/proof-of-work.md)
 * [公地悲劇](chapter-3/hu-lian-wang-zhi-si.md)
-* [鑄幣權](chapter-3/zhu-bi-quan.md)
+* [鑄幣權民主化](chapter-3/zhu-bi-quan.md)
 * [【工作坊】](chapter-3/gong-zuo-fang-get-hkg-tokendecentralize-hong-kong.md)
 
 ## 區塊鏈與媒體 <a id="chapter-4"></a>
