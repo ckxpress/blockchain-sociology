@@ -6,11 +6,15 @@ description: 虛則實之
 
 談到在沒有土地的前提下「立國」，自然讓人聯想到《Avatar》、《The Matrix》和《刀劍神域》等科幻作品。的確，隨著虛擬實境（Virtual Reality，AR）科技日漸成熟，算力成本下降，過往只存在於科幻小說的意念正在實現。正如遊戲公司 Valve 聯合創辦人 Gabe Newell 日前在 IGN [訪問](https://www.ign.com/articles/gabe-newell-matrix-brain-computer-interface-valve)中表示，「我們離 The Matrix 要比大眾意識到的接近得多（We're way closer to the Matrix than people realise）。」虛擬大行其道，「虛擬世界」、「虛擬貨幣」等詞彙氾濫，濫用得就如「虛擬」般虛，做成誤解。
 
+### 物理世界與數位世界
+
 字面可見，「虛擬」帶有「模擬」的意思，模擬由來已久，比如臨摹名畫，加上「虛」，是指透過數位技術模擬真實，讓人感覺身歷其境，甚至信以為真。感覺從靈魂之窗開始，因此虛擬實境用得最多的首先是 VR 眼鏡，並早已達到畫面中子彈飛來會讓人低頭閃避的反射動作那種逼真程度。視覺之外，最容易模擬實境的自然是以降噪耳機播出的聲音，此後甚至可預期觸感、嗅覺、味覺的模擬普及化。總之，所有感官全都可以透過技術刺激人體形成。模擬這個特性加上詞首「虛」，使虛擬總附帶潛台詞：假。即使科幻電影如《Ready Player One》，都一再說教地提醒觀眾，遊戲世界 Oasis 是假的，唯有「reality」才是真實，要珍惜芸芸，更遑論心目中只有「真實世界」的傳統論述。
 
 坊間很多時以「虛擬世界」涵蓋整個互聯網，卻過於廣泛，帶點粗疏，畢竟除遊戲外，互聯網上的大部分內容如文字、圖片、影音等不過是從書報雜誌、唱片和影碟等，演變至現時幾乎全面數位化，對應的是由印刷、類比模擬（analogue）、以物理載體運輸及儲存，演變至數位取樣、光纖傳輸、固態或磁碟硬盤儲存。數位化加上互聯網帶來免費且不失真複製、快速傳輸等特性，是繼農業、工業革命後的第三波革命，但那是載體和媒介的革新，重點在於數位而不是模擬。所以比較準確的說法並非「虛擬世界」對應「真實世界」，而是「數位世界」對應「物理世界」；物理與真之間、數位與假之間，並無必然關係，網站可以載滿可靠資訊，實體報紙可以寫滿虛假報導。畢加索說過 Art is a lie to make us realize the truth，諷刺的卻是在一些國家，government is the truth to tell a lie。
 
 除了數位世界，個人更鍾情於另一個意義相近，比較古老的詞：塞博空間（cyberspace）。不過這個源於 cyberpunk 科幻小說的詞，包含層面比較廣而且在演化。1996 年，為回應克林頓政府的《美國電信法》，電子前線基金會（Electronic Frontier Foundation）創辦人之一 John Perry Barlow 以美國獨立宣言的筆觸，寫出激動人心的 &lt;[A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence)&gt;，毫不虛擬，非常精準地闡述了數位世界的特性，或起碼是願景。只要會上網的，都該拿來一讀：“Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live. We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.”
+
+### 虛則實之
 
 假如以情感載體的角度比較物理世界與數位世界，現代城市人往往會發現後者盛載著比前者更多和更深的感受，可謂情感上的虛則實之。最簡單的例子，以往我們生活壓力大，會逃到網上去避，但在資訊爆炸，新聞壓得人喘不過氣的當下，要逃避現實，反過來需要的是斷網避免接觸到信息，更千萬不要看直播，「Internet detox」一番。
 
