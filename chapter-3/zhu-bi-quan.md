@@ -1,17 +1,36 @@
 # 鑄幣民主化
 
+電腦讓個人處理複雜運算，互聯網讓個人連結世界，信息互通；區塊鏈再進一步為個人充權，讓每個人證成信任，價值互通。透過發行通證，機構甚至個人也能“鑄幣”，這個以前只有政府擁有的能力。
+
+### 鑄幣權何以重要
+
+鑄幣過往是如此遙不可及，大部分人大概想都沒想過，不一定體會有這個需要，正如互聯網出現前，我們不太覺得自己需要發行流通全球的報紙。
+
+價值需要以貨幣作為載體去發揚光大，法定貨幣無法承載多方面的價值，因此機構和個人發行通證，有助體現多元價值，彌補法定貨幣的不足。如果這有點抽象，可以對比，傳統報紙只有幾把聲音，因此需要個人網站和社交媒體，才能承載多元聲音；更何況，一個社會也有多份報章雜誌，但法定貨幣則每個社會只得一種。
+
+從 1762 年盧梳的社會契約論，到民族國家的確立，由始至終基於物理世界的邏輯，假設了任何事情都是發生在一片土地上，受這片土地上的國家約束，也獲這片土地上的國家保護。然而，即使真的能共識每分土地每條國界，世界上還是有公海、空氣、太空這些“公地”，還有一整個跟我們息息相關，很多時比物理世界承載著更多更深情感的數位世界。物理世界與民族國家依然重要，但越來越多的價值產生自數位世界，而國家政府要不沒有能力，要不沒有社會契約賦予足夠的正當性去管理過多的數位價值。
 
 
-* 鑄幣權為何重要
-  * 體現多元價值
-  * permissionless innovation
-  * 民族國家沒法處理數位世界所有事情、social contract does not exist
-  * 通證有超越貨幣的性質
-* 發行通證難度在哪
-  * 防偽：區塊鏈
-  * governance
-  * volativity
-  * liquidity
+
+鑄幣權為何重要
+
+* permissionless innovation
+* 通證有超越貨幣的性質
+* 憲法保障
+
+發行通證難度在哪
+
+* 防偽：區塊鏈
+* governance
+* volativity
+* liquidity
 * calculus of value
 * Apple 幣？App Store、Apple products：全球畫一定價...
 
+
+
+各國政府都在或多或少地規管互聯網，但打從最根本的正當性考慮，政府是否獲得人民授權規管也值的斟酌，當初人民與政府之間的社會契約顯然沒有覆蓋這部分。John Perry Barlow 1996 年的 &lt;A Declaration of the Independence of Cyberspace&gt;，清楚地說明這個基本概念：We are forming our own Social Contract. This governance will arise according to the conditions of our world, not yours. Our world is different.
+
+即使不如宣布賽博空間獨立的 John Perry Barlow 基進，至少不能否認互聯網上、
+
+* 
