@@ -5,6 +5,17 @@
 * Liquid democracy
 * 議案、修憲：免入閘、增加議席
 
+從 1762 年盧梳的社會契約論，到民族國家的確立，由始至終基於物理世界的邏輯，假設任何事情都是發生在一片土地上，受這片土地上的國家約束，也獲這片土地上的國家保護。然而，即使真的能共識每分土地每條國界，世界上還是有公海、空氣、太空這些“公地”，還有一整個跟我們息息相關，很多時比物理世界承載著更深情感的數位世界。物理世界與民族國家依然重要，但越來越多的價值產生自數位世界，而國家政府要不沒有能力，要不沒有社會契約賦予足夠的正當性去管理過多的數位價值。
+
+各國政府都在或多或少地規管互聯網，但打從最根本的正當性考慮，政府是否獲得人民授權規管也值的斟酌，當初人民與政府之間的社會契約顯然沒有覆蓋這部分。John Perry Barlow 1996 年的 &lt;A Declaration of the Independence of Cyberspace&gt;，清楚地說明這個基本概念：We are forming our own Social Contract. This governance will arise according to the conditions of our world, not yours. Our world is different.
+
+即使不如宣布賽博空間獨立的 John Perry Barlow 基進，至少不能否認互聯網上、
+
+* 
+再說，。。基本人權。。國家政府
+
+
+
 上月跟中學同學和老師 BBQ，提到自己這陣子在研究怎樣成立和運作「[網上國家](https://matters.news/@dablog/%E8%BD%89-%E4%BB%A5%E5%8D%80%E5%A1%8A%E9%8F%88%E6%8A%80%E8%A1%93%E6%89%93%E9%80%A0%E8%99%9B%E6%93%AC%E5%9C%8B-%E8%99%9B%E6%93%AC%E5%9C%8B%E5%AE%B6%E6%99%82%E4%BB%A3%E7%9A%84%E5%85%AC%E6%B0%91%E8%BA%AB%E4%BB%BD%E6%8E%A2%E8%A8%8E-%E5%B7%B4%E9%BB%8E%E5%9C%8B%E5%AE%B6%E7%A7%91%E7%A0%94%E4%B8%AD%E5%BF%83%E5%B8%B8%E4%BB%BB%E7%A0%94%E7%A9%B6%E5%93%A1-primavera-de-filippi-citizenship-in-the-era-of-blockchain-based-virtual-nations-%E7%B9%81%E4%B8%AD%E8%AD%AF-zdpuB1NX358yf7SRRKsckAAEatAVPehwdXma4wDe3RPmVaQaU)」（1陣子=1、2年）。老師問，你的所謂**「網上國家」跟論壇、Facebook 有甚麼區別，不也就是差不多麼**？
 
 我說，「我國」有一套機制，持分者可以參與管治芸芸。沒有說得很深，畢竟那是在 BBQ，雖然我完全樂意少吃一頓，花兩小時去解釋。聚會後想起來，卻自覺解釋得不好，儘管只有兩分鐘，也該講得更清楚才對。
