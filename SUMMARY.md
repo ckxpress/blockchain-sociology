@@ -22,11 +22,11 @@
 
 ## 區塊鏈與價值 <a id="chapter-3"></a>
 
-* [一幣一世界](chapter-3/yi-bi-yi-shi-jie.md)
-* [金錢是個形容詞](chapter-3/money-shi-ge-xing-rong-ci.md)
-* [核心價值](chapter-3/proof-of-work.md)
-* [公地悲劇](chapter-3/hu-lian-wang-zhi-si.md)
-* [鑄幣民主化](chapter-3/zhu-bi-quan.md)
+* [一幣一世界](chapter-3/1coin1world.md)
+* [金錢是個形容詞](chapter-3/money-as-an-adjective.md)
+* [核心價值](chapter-3/on-core-value.md)
+* [公地悲劇](chapter-3/tragedy-of-the-commons.md)
+* [鑄幣民主化](chapter-3/democratizing-token-issuance.md)
 * [【工作坊】](chapter-3/gong-zuo-fang-get-hkg-tokendecentralize-hong-kong.md)
 
 ## 區塊鏈與媒體 <a id="chapter-4"></a>
