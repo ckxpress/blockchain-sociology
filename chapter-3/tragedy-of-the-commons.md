@@ -6,7 +6,7 @@
 
 ### 互聯網的初心
 
-不過，這問題真的很笨荒謬麼？WhatsApp、微信，還有 Messenger、LINE、Telegram、QQ、iMessage、Hangouts，甚至更早的 MSN、ICQ，作為即時通訊，基本功能都差不多，如果 WhatsApp 發訊息給微信有那麼荒謬，為甚麼 Gmail 發電郵 Hotmail 收就理所當然？古早一點，為甚麼香港電訊的號碼打電話給台灣大哥大的門號就理所當然？原來，手機上裝滿各種 apps 的科技達人不過是畫牆為牢，被巨企洗腦而已，沒有思考世界理應怎樣，反而不受科技知識束縛的大媽，不自覺道出了問題的關鍵：互聯網不互聯。
+不過，這問題真的很笨荒謬麼？WhatsApp、微信，還有 Messenger、LINE、Telegram、QQ、iMessage、Hangouts，甚至更早的 MSN、ICQ，作為即時通訊，基本功能都差不多，如果 WhatsApp 發訊息給微信有那麼荒謬，為甚麼 Gmail 發電郵 Hotmail 收就可以？古早一點，為甚麼香港電訊的號碼打電話給台灣大哥大的門號就理所當然？原來，手機上裝滿各種 apps 的科技達人不過是畫牆為牢，被巨企洗腦而已，沒有思考世界理應怎樣，反而不受科技知識束縛的大媽，不自覺道出了問題的關鍵：互聯網不互聯。
 
 二十多年來互聯網發展神速，但是細心想像，我們今天在用的通訊協議（protocol）都已歷史悠久，比如底層溝通的 TCP/IP、讀取網頁的 HTTP、發送電郵的 SMTP、解析網址的 DNS 等，即使應用、硬件以及網絡已經產出千個萬個革命性產品，通訊協議卻沒出現甚麼大突破。真要數的話，點對點的 BitTorrent 算是一大創新，但始終沒有到達普羅大眾。
 
@@ -32,13 +32,13 @@
 
 開放標準逐漸被封閉系統取代，是典型的 tragedy of the commons。不知是否因為華人社會沒有 commons 的概念，這字很難翻譯，有人翻譯為公共財，但其實 public goods 跟無國界而且包含文化和天然資源的 commons 有所不同。片語間接翻譯成公地悲劇，源於 1833 年英國經濟學家 [William Forster Lloyd](https://en.wikipedia.org/wiki/William_Forster_Lloyd) 舉例牧羊人不在乎過度放牧，結果把英國和愛爾蘭之間公地的草吃光。公地悲劇最經典的解釋，要算是阿里士多德所言，「最多人共享的事物所得的照料最少（[That which is common to the greatest number has the least care bestowed upon it](https://www.reddit.com/r/Libertarian/comments/14b1ke/that_which_is_common_to_the_greatest_number_has/)）」。
 
-各個即時通訊軟件不互通顯然不是公眾利益，也絕非技術所限，純粹是市場領導者刻意為之。即時通訊協議 XMPP（eXtensible Messaging and Presence Protocol）早在 1999 年出現，可惜敵不過 MSN、ICQ、AIM、QQ 等封閉系統，到了智能手機年代 WhatsApp、Messenger、LINE 等當道，XMPP 更是提都沒人提起了。最諷刺的是，WhatsApp 推出時使用的正是 XMPP，規模做大了才改用自家協議，公眾種樹，私人收割。
+各個即時通訊軟件不互通顯然不是公眾利益也絕非技術所限，純粹是市場領導者刻意為之。即時通訊協議 XMPP（eXtensible Messaging and Presence Protocol）早在 1999 年出現，可惜敵不過 MSN、ICQ、AIM、QQ 等封閉系統，到了智能手機年代 WhatsApp、Messenger、LINE 等當道，XMPP 更是提都沒人提起了。最諷刺的是，WhatsApp 推出時使用的正是 XMPP，規模做大了才改用自家協議，公眾種樹，私人收割。
 
 責難商人忘本沒用，一句「在商言商」就能開脫所有行為，罵完你還得繼續用，比較有意義的是找方法應對公地悲劇。制定開放基礎建設的機構往往是政府、大學和透過捐款運作的基金會，互聯網協議和開源軟件如 Linux 等得以大成，有賴熱愛技術、信奉開放的社群，況且，當時科技公司的規模相對現在小得多，公開協議透過市場機制就足以打敗封閉花園。
 
 然而互聯網普及，尤其是智能手機普及後，科技公司變得富可敵國：世界銀行有記錄的 199 個國家當中，183 個的國民生產總值低於蘋果的市值。到了今天，Facebook 不支持的通訊標準，還能怎麼互通？純粹假設，如果蘋果不支持 5G 標準，5G 還算不算標準？
 
-基礎建設開發需要龐大的資金和整合能力，以及開源社群著墨最少的推廣，才會最終到達每一個人的手裏。而比開發資金更重要的是，持續運營公共基建的價值捕捉（value capture），前 Union Square Venture 分析員 [Joel Monegro ](https://www.usv.com/people/joel-monegro/)2016 年的文章 &lt;Fat Protocols&gt; 道出傳神的演繹：過往互聯網的協議層輕薄而且免費，互聯網公司基於 TCP/IP 等協議搭建應用，於是賺取掉所有利潤成為了龐然大物；到了本質就是協議的區塊鏈，使用協議需要收取通證，相等於有方法向來公地的牧羊人收費，給全世界誘因去參與建設和維護公地。就是說，通證擔當協議所產生的價值的載體。
+基礎建設開發需要龐大的資金和整合能力，以及開源社群著墨最少的推廣，才會最終到達每一個人的手裏。而比開發資金更重要的是，持續運營公共基建的價值捕捉（value capture），前 Union Square Venture 分析員 [Joel Monegro ](https://www.usv.com/people/joel-monegro/)2016 年的文章 &lt;Fat Protocols&gt; 道出傳神的論述：過往互聯網的協議層輕薄而且免費，互聯網公司基於 TCP/IP 等協議搭建應用，於是賺取掉所有利潤成為了龐然大物；到了本質就是協議的區塊鏈，使用協議需要收取通證，相等於有方法向來公地的牧羊人收費，給全世界誘因去參與建設和維護公地。就是說，通證承載著協議所產生的價值。
 
 至於 ICO，就是透過提前發行並預售使用協議所需的通證，提供開發所需的龐大資金。通證的買家除了是協議將來的用家，也可能是開放標準的支持者，看好這門技術的投資者或投機者。假如二十年前有通證經濟，XMPP 可以發行 IMcoin 支撐開發與推廣，公眾購買 IMcoin 支持項目並且賺取利潤，在 XMPP 基礎開發的各個即時通訊軟件互聯互通而以其他功能競爭，我在微信打開你發給我的 WhatsApp，正常不過。
 
