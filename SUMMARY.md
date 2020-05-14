@@ -31,7 +31,7 @@
 
 ## 區塊鏈與媒體 <a id="chapter-4"></a>
 
-* [創作者的煩惱](chapter-4/chuang-zuo-zhe-de-liang-da-fan-nao.md)
+* [創作有價](chapter-4/the-value-of-content.md)
 * [讚賞幣](chapter-4/zan-shang-gong-min.md)
 * [真理部](chapter-4/fact-check.md)
 * [有機內容農場](chapter-4/you-ji-nei-rong-nong-chang.md)
