@@ -32,9 +32,9 @@
 ## 區塊鏈與媒體 <a id="chapter-4"></a>
 
 * [創作有價](chapter-4/the-value-of-content.md)
-* [真理部](chapter-4/fact-check.md)
-* [有機內容農場](chapter-4/organic-content-farm.md)
-* [讚賞幣](chapter-4/likecoin.md)
+* [事實查核](chapter-4/fact-check.md)
+* [同溫層與割席潮](chapter-4/organic-content-farm.md)
+* [讚賞鏈](chapter-4/likecoin.md)
 * [最小單位的自由](chapter-4/xie-zuo-shi-zui-xiao-chan-wei-de-zi-you.md)
 * [【工作坊】](chapter-4/gong-zuo-fang.md)
 
