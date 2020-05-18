@@ -33,7 +33,7 @@
 
 * [創作有價](chapter-4/the-value-of-content.md)
 * [後真相年代](chapter-4/post-truth-era.md)
-* [同溫層與割席潮](chapter-4/organic-content-farm.md)
+* [同溫層](chapter-4/organic-content-farm.md)
 * [讚賞鏈](chapter-4/likecoin.md)
 * [最小單位的自由](chapter-4/xie-zuo-shi-zui-xiao-chan-wei-de-zi-you.md)
 * [【工作坊】](chapter-4/gong-zuo-fang.md)
