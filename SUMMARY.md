@@ -40,11 +40,11 @@
 
 ## 區塊鏈與治理 <a id="chapter-5"></a>
 
-* [冇大台自治組織](chapter-5/liu-dong-min-zhu.md)
+* [區塊鏈共和國](chapter-5/liu-dong-min-zhu.md)
+* [\#decentralizehk](chapter-5/yan-se-jing-ji-quan.md)
+* [讚賞公民](chapter-5/ou-kuai-lian-gong-he-guo.md)
 * [Internet of blockchain](chapter-5/wang-shang-mei-ti-de-ou-meng.md)
-* [讚賞公民共和國](chapter-5/ou-kuai-lian-gong-he-guo.md)
-* [區塊鏈一帶一路](chapter-5/de-decentralization.md)
-* [顏色經濟圈](chapter-5/yan-se-jing-ji-quan.md)
+* [共和國區塊鏈](chapter-5/de-decentralization.md)
 * [【工作坊】](chapter-5/gong-zuo-fang.md)
 
 ## 從零和到共和 <a id="chapter-6"></a>

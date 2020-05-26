@@ -1,5 +1,12 @@
 # 從零和到共贏
 
+* 錢是無政府最難解決的頂端
+* **Fork the Government**
+  * sand box
+  * 習而時學之
+  * Liquid democracy
+  * 議案、修憲：免入閘、增加議席
+  * 
 * 基進市場
 * **Radical Markets**
 * COST、QV、Data as labor
