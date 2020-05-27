@@ -2,6 +2,15 @@
 
 呼應 Matrix
 
+* eu
+* gov't
+* liquid democracy
+* disinformation
+* content farm
+* reward system
+
+
+
 
 
 * 歐洲國家共同體、歐盟簡史
