@@ -43,12 +43,8 @@
 * [區塊鏈共和國](chapter-5/liu-dong-min-zhu.md)
 * [\#decentralizehk](chapter-5/decentralizehk.md)
 * [讚賞公民](chapter-5/ou-kuai-lian-gong-he-guo.md)
-* [Internet of blockchain](chapter-5/wang-shang-mei-ti-de-ou-meng.md)
 * [共和國區塊鏈](chapter-5/de-decentralization.md)
+* [從零和到共和](chapter-5/from-zero-sum-to-republic.md)
 * [【工作坊】](chapter-5/gong-zuo-fang.md)
-
-## 從零和到共和 <a id="chapter-6"></a>
-
-* [從零和到共贏](chapter-6/ji-jin-shi-chang.md)
-* [從共贏到共和](chapter-6/cong-gong-ying-dao-gong-he.md)
+* [後記](chapter-5/ji-jin-shi-chang.md)
 
