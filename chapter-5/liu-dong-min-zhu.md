@@ -52,7 +52,7 @@ Governments of the Industrial World, you weary giants of flesh and steel, I come
 
 Aragon 的創辦人 [Luis Cuende](https://twitter.com/licuende) 去年在港分享項目發展，貼市地舉例社會運動可以使用這種形式籌募經費，避免募得款項有天突然被銀行凍結，可惜當晚出席者少得跟 DAO 的重要性完全不成比例，似乎要不是港人對幣價關注太多，就是對 DAO 認知太淺。公平點說，雖然 DAO 的潛力極大，但由於當下主流區塊鏈如以太坊用戶體驗依然很差，速度慢成本高不特以，還必須先擁有以太幣方能使用，導致上述例子理論上完全成立，實行起來卻面對大量群眾教育問題，這是 DAO 未有廣為公眾認知的主因。
 
-說起 Aragon 的創辦人，Luis 與 CTO [Jorge Izquierdo](https://twitter.com/izqui9) 兩位均來自西班牙，而 Aragon 的由來正是西班牙境內的[自治區亞拉岡](https://en.wikipedia.org/wiki/Aragon)。跟項目一樣，港人並不熟悉亞拉岡自治區，可是它的毗鄰，相信港人卻大都聽過，正是於 2017 年通過公投尋求獨立的加泰隆尼亞。
+說起 Aragon 的創辦人，Luis 與 CTO [Jorge Izquierdo](https://twitter.com/izqui9) 兩位均來自西班牙，而 Aragon 的由來正是西班牙境內的[自治區亞拉岡](https://en.wikipedia.org/wiki/Aragon)。跟項目一樣，港人並不熟悉亞拉岡自治區，可是它的毗鄰，港人一定聽過，正是於 2017 年通過公投尋求獨立的 Catalonia，加泰隆尼亞。
 
 
 
