@@ -41,7 +41,7 @@
 ## 區塊鏈與治理 <a id="chapter-5"></a>
 
 * [區塊鏈共和國](chapter-5/liu-dong-min-zhu.md)
-* [\#decentralizehk](chapter-5/yan-se-jing-ji-quan.md)
+* [\#decentralizehk](chapter-5/decentralizehk.md)
 * [讚賞公民](chapter-5/ou-kuai-lian-gong-he-guo.md)
 * [Internet of blockchain](chapter-5/wang-shang-mei-ti-de-ou-meng.md)
 * [共和國區塊鏈](chapter-5/de-decentralization.md)
