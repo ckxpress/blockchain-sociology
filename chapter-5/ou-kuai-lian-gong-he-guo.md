@@ -1,29 +1,36 @@
 # 讚賞公民
 
+1952年建立的[歐洲煤鋼共同體](https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%B4%B2%E7%85%A4%E9%92%A2%E5%85%B1%E5%90%8C%E4%BD%93)，當時只有六個成員國。1958年又成立[歐洲經濟共同體](https://zh.wikipedia.org/wiki/%E6%AD%90%E6%B4%B2%E7%B6%93%E6%BF%9F%E5%85%B1%E5%90%8C%E9%AB%94)和[歐洲原子能共同體](https://zh.wikipedia.org/wiki/%E6%AD%90%E6%B4%B2%E5%8E%9F%E5%AD%90%E8%83%BD%E5%85%B1%E5%90%8C%E9%AB%94)，1967年統合在[歐洲各共同體](https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%B4%B2%E5%90%84%E5%85%B1%E5%90%8C%E4%BD%93)之下，1993年《[馬城條約](https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%96%AF%E7%89%B9%E9%87%8C%E8%B5%AB%E7%89%B9%E6%9D%A1%E7%BA%A6)》生效後轉變成歐盟，並且漸漸地從貿易實體轉變成經濟和政治聯盟。同時，歐洲經濟共同體和後來的歐盟在1973年至2013年期間進行八次擴大，成員國從6個增至最多時有28個。。[歐元](https://zh.wikipedia.org/wiki/%E6%AD%90%E5%85%83)由27個成員國中的19個採納為流通貨幣。
+
+歐盟設有成員國首腦組成的歐洲理事會、直接民選的歐洲議會等組織，制定各項政策與法律，比如數碼單一市場版權法案（Directive on Copyright in the Digital Single Market）、一般資料保護規範（General Data Protection Regulation，GDPR）等，再由成員國在國內立法具體執行。
+
+各國既能保有主權、母語和文化，和平共處，又能有體現共同體意志，使用單一貨幣促進貿易與加強實力，是人類歷史上的重要的里程碑，於 2012 年獲頒諾貝爾和平獎。
+
+### Republic of Liker Land
+
+物理世界有距離，有國界，經歷兩次世界大戰，歐盟尚且能夠成立，貫穿各國的，是幾千年的文化底蘊。數位世界沒有疆界，只要等找出清晰的共同理念，各自為政的組織更有機會組成聯盟。基於這個思路，定位為媒體聯盟的讚賞公民共和國在 2019 年 11 月 15 日正式在區塊鏈成立。
+
+
+
 呼應 Matrix
 
 要演繹出有民主自由的核心價值，終極方案是讓支持這套價值的人都使用一款港元以外的特定通貨，但這牽涉到原始分配、鑄幣政策、金融配套等各種問題，光是讓公眾理解，就是以十年計的愚公移山。
 
 
 
-* eu
-* gov't
-* liquid democracy
-* disinformation
-* content farm
-* reward system
-
-
-
-
-
-* 歐洲國家共同體、歐盟簡史
+* * 歐洲國家共同體、歐盟簡史
 * Liker Land
 * 歐羅、LikeCoin
 * GDPR、稅率、虛假訊息
 * Big Dipper: open government
 * LikeCoin chain: consensus、open data
 * 流動民主
+
+
+
+* disinformation
+* content farm
+* reward system
 
 
 
