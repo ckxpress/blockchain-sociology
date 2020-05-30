@@ -57,4 +57,6 @@ LikeCoin 區塊鏈採用拜占庭容錯機制，每個區塊的確認需由 2/3 
 * Big Dipper: open government
 * LikeCoin chain: open data
 * 擁抱一套共同價值的就是 xx 
-* 
+
+
+
