@@ -1,8 +1,8 @@
-# 冇大台
+# 無大台
 
-討論區塊鏈，離不開去中心化。一直認為這個 _****_decentralization 的翻譯很差勁，幸好香港有個地道而且傳神得多的翻譯 —— 冇大台。
+討論區塊鏈，離不開去中心化。一直認為這個 _****_decentralization 的翻譯很差勁，幸好香港有個地道而且傳神得多的翻譯 —— 無大台。
 
-### 冇大台 有共識
+### 無大台 有共識
 
 每個人都說 decentralization，但每個人說的都不太一樣，它被詮釋成各種意思，引起各種誤會。把區塊鏈的 decentralization 解釋得最清楚的要算以太坊創辦人 [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin)，他 2017 年的 &lt;[The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)&gt;，把 decentralization 解拆成架構、管治、邏輯三個維度分析，第一個可理解為多點，其次是分權，第三是得出不同結論。比如說，傳統企業設有一個總部、一個總裁、一個方向，所以三個維度都屬中心化，傳統企業是徹底的中心化管理方針。
 

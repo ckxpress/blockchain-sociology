@@ -53,6 +53,7 @@ Aragon 的創辦人 [Luis Cuende](https://twitter.com/licuende) 去年在港分�
 說起 Aragon 的創辦人，Luis 與 CTO [Jorge Izquierdo](https://twitter.com/izqui9) 兩位均來自西班牙，而 Aragon 的由來正是西班牙境內的[自治區亞拉岡](https://en.wikipedia.org/wiki/Aragon)。跟項目一樣，港人並不熟悉亞拉岡自治區，可是它的毗鄰，港人一定聽過，正是於 2017 年通過公投尋求獨立的 Catalonia，加泰隆尼亞。
 
 * democracy earth
+* permissionless in/out, multi
 
 
 
