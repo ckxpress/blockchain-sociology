@@ -1,14 +1,56 @@
 # 共和國區塊鏈
 
+談區塊鏈，沒有人會質疑 Bitcoin 是鼻祖。然而，細看 Bitcoin 白皮書，會發現「block\(s\)」字出現 67次、「chain」字 27次，「chain of blocks」1次，卻從沒有出現過「blockchain」。短短 9 頁的[白皮書](https://bitcoin.org/bitcoin.pdf)，講解了如何巧妙地利用密碼學建立一套分散式帳本，讓人可以在沒有中央、沒有互信的前提下轉帳，但並沒有把 blockchain 的概念獨立演繹。把中本聰提出的技術稱為 blockchain，應用在 Bitcoin 以外的場景，是來自四方八面的後來者。
+
+
+
+* dc/ep
+* cbdc
+* Libra
+* 泛區塊鏈
+* 貨幣戰爭
+* 兩大陣型，不可能左右逢源
+* 爭取第三世界國家
+* 區塊鏈一帶一路
+* LibraUSD、LibraSGD
+
+
+
+
+
+再加上區塊鏈的特質本來就是無大台，沒有一個特定的組織釐定區塊鏈標準，就算是中本聰終於現身，恐怕都沒有絕對資格說區塊鏈就必定是怎樣。況且，去中心化是個光譜，
+
+
+
+
+
+Bitcoin 以後的區塊鏈，既有些共通點，如都是分散式帳本；又在一些設計上莫衷一是，比如成為節點的條件，一區塊鏈，各自表述。
+
+
+
+國會議員 Mr. Vargus [指出](https://www.rev.com/blog/mark-zuckerberg-testimony-transcript-zuckerberg-testifies-on-facebook-cryptocurrency-libra)：「若要制裁一個國家，我們比較喜歡從經濟下手，而不是動用軍事力量。我們之所以能實施經濟制裁，是因為美國的銀行系統很強大。... 因此，當某些東西威脅到美金時，我們就坐立難安。」
+
+
+
+馬庫斯說這是大勢所趨，誰也擋不住。
+
+> 如果臉書明明擁有技術與人才卻袖手旁觀，不主動在這個領域取得主導權。那麼，這項科技可能就會被其他國家（例如中國）取得主導權，反而削弱了美國政府在全球的領導地位。
+
+這套說法完全是為美國政府量身打造。美國政府有這麼強烈的領先壓力。看準這點，馬庫斯言下之意是要美國政府選擇先放行，再慢慢修正。若停止 Libra 計畫，等同於讓美國的競爭力止步不前。
+
+
+
+
+
 Libra
 
-* 密碼法
-* CBDC、提醒區塊鏈的各種曲解
+* 世界變成兩個陣型，左右逢源極難
+* * CBDC、提醒區塊鏈的各種曲解
 * [https://ckxpress.com/de-decentralization-of-blockchain/](https://ckxpress.com/de-decentralization-of-blockchain/)
 * [https://ckxpress.com/wallstreetchain/](https://ckxpress.com/wallstreetchain/)
 * [https://ckxpress.com/the-chinese-way/](https://ckxpress.com/the-chinese-way/)
 
-[上回](https://ckxpress.com/the-chinese-way/)提到，區塊鏈 blockchain 的鼻祖 Bitcoin，白皮書裡面其實只提及過 block、chain 和 chain of blocks 概念，中本聰從沒有在抽離 Bitcoin 的語境下定義區塊鏈，那都是後人的演繹。
+[上回](https://ckxpress.com/the-chinese-way/)提到，區塊鏈 blockchain 的鼻祖 
 
 #### 不可竄改和去中心化屬兩個維度
 
