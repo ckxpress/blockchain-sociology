@@ -46,5 +46,4 @@
 * [共和國區塊鏈](chapter-5/de-decentralization.md)
 * [從零和到共和](chapter-5/from-zero-sum-to-republic.md)
 * [【工作坊】](chapter-5/gong-zuo-fang.md)
-* [後記](chapter-5/ji-jin-shi-chang.md)
 

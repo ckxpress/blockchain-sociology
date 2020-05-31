@@ -1,5 +1,27 @@
 # 從零和到共和
 
+
+
+* **Fork the Government**
+* * sand box
+  * 習而時學之
+  * Liquid democracy
+  * 議案、修憲：免入閘、增加議席
+  * 
+* 基進市場
+* **Radical Markets**
+* COST、QV、Data as labor
+* 區塊鏈作為民主沙盒、蘇共（呼應 “習而時學之”）
+* 世界大潮流
+* 引喻失義
+* 常識不常
+* nation shopping
+* dao、un
+* ai & blockchain
+* 無大台跟中心化之爭、效率 vs 過程（AI vs 區塊鏈）、“以人為本”之惡、個人的自處
+* 盧梳、國家與個人的新契約
+* 一個人只能生活在一個國家？、nation-shopping、govt-as-a-platform
+
 2017年，我跟幾位拍檔著手設計一種[社群通證](https://matters.news/@ckxpress/%E6%BC%82%E6%B5%81%E6%95%99%E5%AE%A4-%E4%B8%80%E7%A8%AE%E8%B2%A8%E5%B9%A3%E4%B8%80%E5%80%8B%E4%B8%96%E7%95%8C-zdpuB2RUF5qZpGjMfBMsHD37AWTg863XskHo3hMriGXPGV61s)，讓讀者只要[對作品按讚，就能為創作者帶來實質回報](https://youtu.be/L6yjFruMLnA)。對此我被問過無數問題，[學術的](https://ckxpress.com/likecoin-whitepaper/)、[好奇的](https://matters.news/@ckxpress/%E6%B3%95%E5%AE%9A%E8%AA%9E%E8%A8%80%E5%A4%96%E6%9C%89%E6%96%B9%E8%A8%80-%E7%82%BA%E7%94%9A%E9%BA%BC%E6%B3%95%E5%AE%9A%E8%B2%A8%E5%B9%A3%E5%A4%96%E4%B8%8D%E8%83%BD%E6%9C%89%E5%85%B6%E4%BB%96%E8%B2%A8%E5%B9%A3-zdpuAqhHx9Td7cPTw6ZJoJ3Ap68jHqJrHWDWKEfeBo63YcDJ4)、[質疑的](https://www.isthiscoinascam.com/check/likecoin)都有，當中被問得最最多的是「錢從何來」。這問題固然合情合理，但問題背後附帶的假設，我卻希望發問者能隨我一起深入探討而非照單全收。
 
 #### 假設一：作者得到「錢」，代表有人付出等值的「錢」
