@@ -45,5 +45,4 @@
 * [讚賞公民](chapter-5/ou-kuai-lian-gong-he-guo.md)
 * [共和國區塊鏈](chapter-5/de-decentralization.md)
 * [從零和到共和](chapter-5/from-zero-sum-to-republic.md)
-* [【工作坊】](chapter-5/gong-zuo-fang.md)
 
