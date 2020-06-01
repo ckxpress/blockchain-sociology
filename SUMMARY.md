@@ -2,14 +2,14 @@
 
 * [區塊鏈社會學](README.md)
 
-## 誤解詞典 <a id="chapter-1"></a>
+## 第一章 誤解詞典 <a id="chapter1"></a>
 
-* [學習](chapter-1/learning.md)
-* [價值](chapter-1/value.md)
-* [金錢](chapter-1/money.md)
-* [國家](chapter-1/state.md)
-* [虛擬](chapter-1/virtual.md)
-* [【工作坊】](chapter-1/workshop-1.md)
+* [學習](chapter1/learning.md)
+* [價值](chapter1/value.md)
+* [金錢](chapter1/money.md)
+* [國家](chapter1/state.md)
+* [虛擬](chapter1/virtual.md)
+* [【工作坊】](chapter1/workshop-1.md)
 
 ## 區塊鏈與信任 <a id="chapter-2"></a>
 
