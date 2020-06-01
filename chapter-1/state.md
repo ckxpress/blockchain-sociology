@@ -39,9 +39,7 @@ Living life in peace
 
 透過 e-Residency 計畫，本已盛行資訊科技創業的愛沙尼亞，這幾年間增加電子公民生力軍六萬多人，超越該國出生率，卻不產生任何土地問題，反而把 「國界」無限伸展至 165 個國家。
 
-除了像愛沙尼亞這種在既有國際關係上延伸的「建制派」（insiders），和企圖另覓領土重新建設的「在野派」（outsiders），把國家概念重新演繹的還有完全無視現有體制與邏輯，在還未被定性的領域構建生活共同體的超越者（beyonders）。而超越者，才是《區塊鏈社會學》討論的重點。
+除了像愛沙尼亞這種在既有國際關係上延伸的「局內人」（insiders），和企圖另覓領土重新建設的「局外人」（outsiders），把國家概念重新演繹的還有完全無視現有體制與邏輯的超越者（beyonders），在還未被定性的領域構建生活共同體，區塊鏈共和國。
 
-* 盧梳 social contract...
-* 國家與人民的新契約
-* 聖鬥士星矢[https://en.wikipedia.org/wiki/List\_of\_sovereign\_states\_and\_dependent\_territories\_by\_continent](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_continent)
+* [https://en.wikipedia.org/wiki/List\_of\_sovereign\_states\_and\_dependent\_territories\_by\_continent](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_continent)
 

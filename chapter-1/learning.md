@@ -41,5 +41,4 @@
 如果以上種種原因都不足以改變你對學而後習的堅持，不妨想想，先學懂愛才開始去愛，可以麼？
 
 * [https://www.youtube.com/watch?v=Kic5rKjENg4](https://www.youtube.com/watch?v=Kic5rKjENg4)
-* （。。工作坊）
 
