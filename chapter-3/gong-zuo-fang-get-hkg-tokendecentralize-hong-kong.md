@@ -1,4 +1,7 @@
 # 【工作坊】
 
-get HKG token，decentralize Hong Kong
+* Argent DeFi
+* Compound
+* Pool Together
+* 領取本書 NFT
 
