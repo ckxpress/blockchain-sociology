@@ -33,16 +33,16 @@
 
 * [創作有價](chapter-4/the-value-of-content.md)
 * [後真相年代](chapter-4/post-truth-era.md)
-* [同溫層](chapter-4/organic-content-farm.md)
+* [同溫層](chapter-4/echo-chamber.md)
 * [讚賞幣](chapter-4/likecoin.md)
-* [最小單位的自由](chapter-4/xie-zuo-shi-zui-xiao-chan-wei-de-zi-you.md)
+* [最小單位的自由](chapter-4/matters.md)
 * [【工作坊】](chapter-4/gong-zuo-fang.md)
 
 ## 區塊鏈與治理 <a id="chapter-5"></a>
 
-* [區塊鏈共和國](chapter-5/liu-dong-min-zhu.md)
+* [區塊鏈共和國](chapter-5/dao.md)
 * [\#decentralizehk](chapter-5/decentralizehk.md)
-* [讚賞公民](chapter-5/ou-kuai-lian-gong-he-guo.md)
-* [共和國區塊鏈](chapter-5/de-decentralization.md)
+* [讚賞公民](chapter-5/civic-liker.md)
+* [共和國區塊鏈](chapter-5/dcep-vs-libra.md)
 * [從零和到共和](chapter-5/from-zero-sum-to-republic.md)
 
