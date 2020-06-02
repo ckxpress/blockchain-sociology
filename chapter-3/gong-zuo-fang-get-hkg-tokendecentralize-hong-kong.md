@@ -1,7 +1,6 @@
 # 【工作坊】
 
-* Argent DeFi
-* Compound
-* Pool Together
-* 領取本書 NFT
+* Argent guardians
+* 領取本書 NFT?
+* 領取 HKG?
 
