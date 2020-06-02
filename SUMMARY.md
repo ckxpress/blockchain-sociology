@@ -13,7 +13,7 @@
 
 ## 區塊鏈與信任 <a id="chapter-2"></a>
 
-* [不可竄改](chapter-2/on-immutability.md)
+* [數位連儂牆](chapter-2/on-immutability.md)
 * [無大台](chapter-2/on-decentralization.md)
 * [密碼學不是學密碼](chapter-2/imitation-game.md)
 * [信任機器](chapter-2/trust-machine.md)
