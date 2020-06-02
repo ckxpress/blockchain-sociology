@@ -48,5 +48,5 @@
 
 {% embed url="https://www.newsprovenanceproject.com/proof-of-concept" %}
 
-* censorship of truth
+
 
