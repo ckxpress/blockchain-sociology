@@ -16,7 +16,7 @@
 * [不可竄改](chapter-2/on-immutability.md)
 * [無大台](chapter-2/on-decentralization.md)
 * [密碼學不是學密碼](chapter-2/imitation-game.md)
-* [信任機器](chapter-2/on-anti-counterfeiting.md)
+* [信任機器](chapter-2/trust-machine.md)
 * [建築師與先知](chapter-2/the-architect-and-the-oracle.md)
 * [【工作坊】](chapter-2/gong-zuo-fang-zhuan-zhang.md)
 
