@@ -1,6 +1,6 @@
 # 虛擬
 
-談到在沒有土地的前提下「立國」，自然讓人聯想到《Avatar》、《The Matrix》和《刀劍神域》等科幻作品。的確，隨著虛擬實境（Virtual Reality，VR）科技日漸成熟，算力成本下降，過往只存在於科幻小說的意念正在實現。正如遊戲公司 Valve 聯合創辦人 Gabe Newell 日前在 IGN [訪問](https://www.ign.com/articles/gabe-newell-matrix-brain-computer-interface-valve)中表示，「我們離 The Matrix 要比大眾意識到的接近得多（We're way closer to the Matrix than people realise）。」虛擬大行其道，「虛擬世界」、「虛擬貨幣」等詞彙氾濫，濫用得就如「虛擬」般虛，做成誤解。
+談到在沒有土地的前提下「立國」，自然讓人聯想到《Avatar》、《The Matrix》和《刀劍神域》等科幻作品。的確，隨著虛擬實境（Virtual Reality，VR）科技日漸成熟，算力成本下降，過往只存在於科幻小說的意念正在實現。正如遊戲公司 Valve 聯合創辦人 Gabe Newell 在 IGN [訪問](https://www.ign.com/articles/gabe-newell-matrix-brain-computer-interface-valve)中表示，「我們離《The Matrix》要比大眾意識到的接近得多（We're way closer to the Matrix than people realise）。」虛擬大行其道，「虛擬世界」、「虛擬貨幣」等詞彙氾濫，濫用得就如「虛擬」般虛，造成誤解。
 
 ### 物理世界與數位世界
 
@@ -8,17 +8,17 @@
 
 VR 遊戲固然是虛擬，但坊間很多時以「虛擬世界」涵蓋整個互聯網，卻過於廣泛，帶點粗疏，畢竟互聯網上的大部分內容如文字、圖片、影音等不過是從書報雜誌、唱片和影碟等，演變至現時幾乎全面數位化；由印刷、類比模擬（analogue）、以物理載體運輸及儲存，演變至數位取樣、光纖傳輸、固態或磁碟硬盤儲存。數位化加上互聯網帶來近乎免費且不失真複製、快速傳輸等特性，是繼農業、工業革命後的第三波革命，但那是載體和媒介的革新，重點在於數位而不是模擬。所以比較準確的框架並非以「虛擬世界」對應「真實世界」，而是以「數位世界」對應「物理世界」。物理與真之間、數位與假之間，並無必然關係，網站可以載滿可靠資訊，實體報紙可以寫滿虛假信息。載體的性質是一回事，信息的真確性可是另一回事。
 
-除了數位世界，個人更鍾情於另一個意義相近，比較古老的詞：塞博空間（cyberspace）。不過這個源於 cyberpunk 科幻小說的詞，包含層面比較廣而且在演化。1996 年，為回應克林頓政府的《美國電信法》，電子前線基金會（Electronic Frontier Foundation）創辦人，賽博自由主義者 John Perry Barlow 以美國獨立宣言的筆觸，寫出激動人心的 &lt;[A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence)&gt;，毫不虛擬，非常精準地闡述了數位世界的特性，或起碼是願景。只要會上網的，都該拿來一讀：「Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live. We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.」
+除了數位世界，個人更鍾情於另一個意思相近、比較古老的詞：賽博空間（cyberspace）。不過這個源於 cyberpunk 科幻小說的詞，包含層面比較廣而且在演化。1996 年，為回應克林頓政府的《美國電信法》，電子前線基金會（Electronic Frontier Foundation）創辦人，賽博自由主義者 John Perry Barlow 以美國獨立宣言的筆觸，寫出激動人心的 &lt;[A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence)&gt;，毫不虛擬，非常精準地闡述了數位世界的特性，或起碼是願景。只要會上網的，都該拿來一讀：「Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live. We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.」
 
 ### 虛則實之
 
 畢加索說 Art is a lie to make us realize the truth，優秀的藝術作品，虛則實之。諷刺地在一些國家，government is the truth to tell a lie，實則虛之。
 
-情感的載體往往也是虛則實之，比較物理世界與數位世界，現代城市人往往會發現後者盛載著比前者更多也更深的感受。最簡單的例子，以往我們生活壓力大，會逃到網上去避，但在資訊爆炸，新聞壓得人喘不過氣的當下，要逃避現實，反過來需要的是斷網避免接觸到信息，更千萬不要看直播，「Internet detox」一番。
+情感的載體往往也是虛則實之，比較物理世界與數位世界，現代城市人往往會發現後者盛載著比前者更多也更深的感受。最簡單的例子，以往我們生活壓力大，會逃到網上，但在資訊爆炸、新聞壓得人喘不過氣的當下，要逃避現實，反過來需要的是斷網避免接觸到信息，更千萬不要看直播，「Internet detox」一番。
 
-再說，在營營役役的社會，像我這種性格內向的人，很多時會覺得「互聯網朋友」要比「IRL（in real life）朋友」甚至家人更了解自己，尤其是會讀自己的文章的人。這不難理解，工業革命以降的官僚工作環境中每個人只是異化地執行任務，即使每日相見的同事，往往只是點頭之交，更遑論當下社會撕裂，舉報文化盛行，讓人不願在物理生活中表達價值觀，反而在網上流露的，會是更真實的感受。互聯網普及的今天，每個人都同時在物理與數位世界跟人互動，只是分配在兩者的時間有所差異，既有偶爾用手機跟人溝通的，也有像我這種，偶爾會在物理世界跟人接觸的，所謂「網友」、「網民」，說得好像有種生物只活於網中，十分誤導。
+再說，在營營役役的社會，像我這種性格內向的人，很多時會覺得「互聯網朋友」要比「IRL（in real life）朋友」、甚至家人更了解自己，尤其是會讀自己的文章的人。這不難理解，工業革命以來的官僚工作環境中，每個人只是異化地執行任務，即使每日相見 的同事，往往只是點頭之交，更遑論當下社會撕裂，舉報文化盛行，讓人不願在物理生活中表達價值觀，反而在網上流露的，會是更真實的感受。互聯網普及的今天，每個人都同時在物理與數位世界跟人互動，只是分配在兩者的時間有所差異，既有偶爾用手機跟人溝通的，也有像我這種，偶爾會在物理世界跟人接觸的，所謂「網友」、「網民」，說得好像有種生物只活於網中，十分誤導。
 
-以上例子是從感受出發，但夫婦相識媒介的統計，則是數據說明現象。1993 年，互聯網剛進入民間之初，New Yorker 發表過一幅非常流行的[漫畫](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog)，一只在上網的狗跟朋友聊天說：「On the Internet, nobody knows you're a dog」。匿名與虛擬本是不同概念，但因為均非真實，造成混淆。總之，以前在互聯網交友被視為容易受騙的高危行為，有人因而聯想到不正經，在網上認識而結婚的，甚至不好意思說出口。但隨著互聯網普及，按美國的[調查](https://www.pnas.org/content/116/36/17753/tab-figures-data)，認識於網上的夫婦已經從 1995 年的 2% 升至 2007 年的 39%，為所有媒介中最高。
+以上例子是從感受出發，但夫婦相識媒介的統計，則是數據說明現象。1993 年，互聯網剛進入民間之初，《The New Yorker》發表過一幅非常流行的[漫畫](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog)，一隻在上網的狗跟朋友聊天說：「On the Internet, nobody knows you're a dog」。匿名與虛擬本是不同概念，但因為均非真實，造成混淆。總之，以前在互聯網交友被視為容易受騙的高危行為，有人因而聯想到不正經，在網上認識而結婚的，甚至不好意思說出口。但隨著互聯網普及，按美國的[調查](https://www.pnas.org/content/116/36/17753/tab-figures-data)，認識於網上的夫婦已經從 1995 年的 2% 升至 2007 年的 39%，為所有媒介中最高。
 
 新科技無疑需要學習需要理解，但適應過後往往能產生前所未有的效果。一場新冠肺炎，一下子把教師對視像通話等科技的掌握往前推了一二十年，我的教師朋友們全都認為其實也沒有很難，有部分甚至發現效果比以前還好得多，辦沙龍的，以往一百人就不得了，現在一場 Zoom 沙龍，還沒開場就滿是來自五湖四海的一千人，而且只是因為授權協議封頂才沒破千。有個政政系教授老友，覺得視像上課討論氣氛太好，打趣說疫情過後都不想改回當面上課，我也開玩笑建議，那就得把新亞圓形廣場、聯合草地的照片設為會議室背景了。
 
