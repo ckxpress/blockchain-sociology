@@ -32,7 +32,7 @@
 ## 區塊鏈與媒體 <a id="chapter-4"></a>
 
 * [創作有價](chapter-4/the-value-of-content.md)
-* [後真相年代](chapter-4/post-truth-era.md)
+* [後真相時代](chapter-4/post-truth-era.md)
 * [同溫層](chapter-4/echo-chamber.md)
 * [讚賞幣](chapter-4/likecoin.md)
 * [最小單位的自由](chapter-4/matters.md)
