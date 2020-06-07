@@ -11,7 +11,7 @@
 * [虛擬](chapter1/virtual.md)
 * [【工作坊】](chapter1/workshop-1.md)
 
-## 區塊鏈與信任 <a id="chapter-2"></a>
+## 第二章 區塊鏈與信任 <a id="chapter-2"></a>
 
 * [數位連儂牆](chapter-2/on-immutability.md)
 * [無大台](chapter-2/on-decentralization.md)
@@ -20,7 +20,7 @@
 * [建築師與先知](chapter-2/the-architect-and-the-oracle.md)
 * [【工作坊】](chapter-2/gong-zuo-fang-zhuan-zhang.md)
 
-## 區塊鏈與價值 <a id="chapter-3"></a>
+## 第三章 區塊鏈與價值 <a id="chapter-3"></a>
 
 * [一幣一世界](chapter-3/1coin1world.md)
 * [金錢是個形容詞](chapter-3/money-as-an-adjective.md)
@@ -29,7 +29,7 @@
 * [鑄幣民主化](chapter-3/democratizing-token-issuance.md)
 * [【工作坊】](chapter-3/gong-zuo-fang-get-hkg-tokendecentralize-hong-kong.md)
 
-## 區塊鏈與媒體 <a id="chapter-4"></a>
+## 第四章 區塊鏈與媒體 <a id="chapter-4"></a>
 
 * [創作有價](chapter-4/the-value-of-content.md)
 * [後真相時代](chapter-4/post-truth-era.md)
@@ -38,7 +38,7 @@
 * [最小單位的自由](chapter-4/matters.md)
 * [【工作坊】](chapter-4/gong-zuo-fang.md)
 
-## 區塊鏈與治理 <a id="chapter-5"></a>
+## 第五章 區塊鏈與治理 <a id="chapter-5"></a>
 
 * [區塊鏈共和國](chapter-5/dao.md)
 * [\#decentralizehk](chapter-5/decentralizehk.md)
