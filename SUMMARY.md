@@ -9,7 +9,7 @@
 * [金錢](chapter1/money.md)
 * [國家](chapter1/state.md)
 * [虛擬](chapter1/virtual.md)
-* [【工作坊】](chapter1/workshop-1.md)
+* [【習學工作坊】](chapter1/workshop-1.md)
 
 ## 第二章 區塊鏈與信任 <a id="chapter-2"></a>
 
