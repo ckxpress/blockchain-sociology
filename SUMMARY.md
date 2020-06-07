@@ -36,7 +36,7 @@
 * [同溫層](chapter-4/echo-chamber.md)
 * [讚賞幣](chapter-4/likecoin.md)
 * [最小單位的自由](chapter-4/matters.md)
-* [【習學工作坊】](chapter-4/gong-zuo-fang.md)
+* [【習學工作坊】](chapter-4/workshop-4.md)
 
 ## 第五章 區塊鏈與治理 <a id="chapter-5"></a>
 
