@@ -38,7 +38,7 @@
 * [最小單位的自由](chapter-4/matters.md)
 * [【習學工作坊】](chapter-4/workshop-4.md)
 
-## 第五章 區塊鏈與治理 <a id="chapter-5"></a>
+## 第五章 超越者 <a id="chapter-5"></a>
 
 * [區塊鏈共和國](chapter-5/dao.md)
 * [\#decentralizehk](chapter-5/decentralizehk.md)
